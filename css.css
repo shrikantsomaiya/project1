@@ -1,0 +1,42 @@
+.bg-1{
+    background-color: rgb(245, 226, 176);
+    color: #4f3222;
+
+}
+/* create new user container */
+.bg-2{
+    background-color: #d4ac6e;
+    color: #4f3222;
+}
+
+/* login container */
+.bg-3{
+    background-color: #8b6f47;
+    color: #bbab9b;
+}
+
+/* about me */
+.bg-4{
+    background-color: #4f3222;
+    color: #bbab9b;
+}
+
+/* footer */
+.bg-5 {
+    background-color: #2f2f2f;
+    color: #ffffff;
+  }
+
+/* padding */
+.container-fluid1 {
+    padding-top: 260px;
+    padding-bottom: 260px;
+  }
+.container-fluid2 {
+    padding-top: 200px;
+    padding-bottom: 200px;
+  }
+
+  .box {
+    background-color: #d4ac6e;
+  }
